@@ -11,4 +11,5 @@ In the program, step detection is performed as follows:
 A step is detected when the absolute value of the acceleration in any of the three axes (X, Y, Z) exceeds the defined sensitivity threshold.
 Every minute, the steps per minute (SPM) is calculated based on the number of steps counted in that minute.
 
+You can run program using programming environment Keil uVison
 
